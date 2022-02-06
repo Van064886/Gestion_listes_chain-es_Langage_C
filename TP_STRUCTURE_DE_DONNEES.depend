@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644049047 source:/home/van/Documents/COMPUTER SCIENCE/Programmation/Pratiques/Langage c++/TP_STRUCTURE_DE_DONNEES/main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1643414690 source:/home/van/Documents/COMPUTER SCIENCE/Programmation/Pratiques/Langage c++/TP_STRUCTURE_DE_DONNEES/functions.c
+
